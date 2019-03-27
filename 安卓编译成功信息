@@ -1,0 +1,258 @@
+t_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_disconnect_title' has no default translation.
+warning: string 'wifi_display_disconnect_title' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_listen_channel' has no default translation.
+warning: string 'wifi_display_listen_channel' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_listen_mode' has no default translation.
+warning: string 'wifi_display_listen_mode' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_operating_channel' has no default translation.
+warning: string 'wifi_display_operating_channel' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_paired_devices' has no default translation.
+warning: string 'wifi_display_paired_devices' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_pause' has no default translation.
+warning: string 'wifi_display_pause' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_resume' has no default translation.
+warning: string 'wifi_display_resume' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_search_for_devices' has no default translation.
+warning: string 'wifi_display_search_for_devices' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_searching_for_devices' has no default translation.
+warning: string 'wifi_display_searching_for_devices' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_session_info' has no default translation.
+warning: string 'wifi_display_session_info' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_settings_empty_list_wifi_display_disabled' has no default translation.
+warning: string 'wifi_display_settings_empty_list_wifi_display_disabled' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_settings_empty_list_wifi_display_off' has no default translation.
+warning: string 'wifi_display_settings_empty_list_wifi_display_off' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_status_available' has no default translation.
+warning: string 'wifi_display_status_available' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_summary_disabled' has no default translation.
+warning: string 'wifi_display_summary_disabled' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_summary_off' has no default translation.
+warning: string 'wifi_display_summary_off' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_summary_on' has no default translation.
+warning: string 'wifi_display_summary_on' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_display_wps_config' has no default translation.
+warning: string 'wifi_display_wps_config' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_secured_first_item' has no default translation.
+warning: string 'wifi_secured_first_item' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wifi_secured_second_item' has no default translation.
+warning: string 'wifi_secured_second_item' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'wimax_settings_summary' has no default translation.
+warning: string 'wimax_settings_summary' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+Copying: out/target/common/obj/JAVA_LIBRARIES/com.android.contacts.common.test_intermediates/classes.jar
+Copying: out/target/common/obj/APPS/UnifiedEmail_intermediates/classes.jar
+target Package: Browser (out/target/product/tiny4412/obj/APPS/Browser_intermediates/package.apk)
+packages/apps/Browser/res/drawable-sw600dp-hdpi/ic_secure_partial_holo_dark.png: libpng warning: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+packages/apps/Browser/res/values-ja/donottranslate_strings.xml:20: warning: string 'pref_default_text_encoding_default' marked untranslatable but exists in locale 'ja'
+
+target Package: Calendar (out/target/product/tiny4412/obj/APPS/Calendar_intermediates/package.apk)
+packages/apps/Calendar/res/values-ar-rXB/arrays.xml:0: warning: Resource file packages/apps/Calendar/res/values-ar-rXB/arrays.xml is skipped as pseudolocalization was done automatically.
+packages/apps/Calendar/res/values-ar-rXB/strings.xml:0: warning: Resource file packages/apps/Calendar/res/values-ar-rXB/strings.xml is skipped as pseudolocalization was done automatically.
+warning: string 'done' has no default translation.
+warning: string 'done' is missing 87 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT rm_CH ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+Warning: AndroidManifest.xml already defines minSdkVersion (in http://schemas.android.com/apk/res/android); using existing value in manifest.
+Warning: AndroidManifest.xml already defines targetSdkVersion (in http://schemas.android.com/apk/res/android); using existing value in manifest.
+warning: no entries written for string/done (0x7f0c00eb)
+target Package: Camera2 (out/target/product/tiny4412/obj/APPS/Camera2_intermediates/package.apk)
+nothing matches overlay file ic_refocus_disabled.png, for flavor xxhdpi-v4
+nothing matches overlay file ic_refocus_normal.png, for flavor xxhdpi-v4
+packages/apps/Camera2/res/drawable/crop_background.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Camera2/res/drawable-nodpi/geometry_shadow.9.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+Warning: AndroidManifest.xml already defines minSdkVersion (in http://schemas.android.com/apk/res/android); using existing value in manifest.
+Warning: AndroidManifest.xml already defines targetSdkVersion (in http://schemas.android.com/apk/res/android); using existing value in manifest.
+warning: no entries written for drawable/ic_capture_pano (0x7f020046)
+warning: no entries written for drawable/ic_capture_pano_disabled (0x7f020047)
+warning: no entries written for drawable/ic_capture_refocus_disabled (0x7f02004a)
+warning: no entries written for drawable/ic_photo_sphere_disabled (0x7f0200e1)
+Install: out/target/product/tiny4412/system/app/DeskClock/DeskClock.apk
+Copying: out/target/common/obj/APPS/Email_intermediates/classes.jar
+Install: out/target/product/tiny4412/system/app/Exchange2/Exchange2.apk
+Install: out/target/product/tiny4412/system/app/Gallery2/Gallery2.apk
+mkdir -p out/target/product/tiny4412/system/app/Gallery2/lib/arm  ;ln -sf /system/lib/libjni_eglfence.so out/target/product/tiny4412/system/app/Gallery2/lib/arm/libjni_eglfence.so  ;ln -sf /system/lib/libjni_filtershow_filters.so out/target/product/tiny4412/system/app/Gallery2/lib/arm/libjni_filtershow_filters.so  ;ln -sf /system/lib/librsjni.so out/target/product/tiny4412/system/app/Gallery2/lib/arm/librsjni.so  ;ln -sf /system/lib/libjni_jpegstream.so out/target/product/tiny4412/system/app/Gallery2/lib/arm/libjni_jpegstream.so
+Install: out/target/product/tiny4412/system/app/PrintSpooler/PrintSpooler.apk
+mkdir -p out/target/product/tiny4412/system/app/PrintSpooler/lib/arm  ;ln -sf /system/lib/libprintspooler_jni.so out/target/product/tiny4412/system/app/PrintSpooler/lib/arm/libprintspooler_jni.so
+Install: out/target/product/tiny4412/system/priv-app/Contacts/Contacts.apk
+Install: out/target/product/tiny4412/system/priv-app/Dialer/Dialer.apk
+Install: out/target/product/tiny4412/system/priv-app/Launcher2/Launcher2.apk
+Install: out/target/product/tiny4412/system/priv-app/Mms/Mms.apk
+Install: out/target/product/tiny4412/system/priv-app/Settings/Settings.apk
+target Static Jar: com.android.contacts.common.test (out/target/common/obj/JAVA_LIBRARIES/com.android.contacts.common.test_intermediates/javalib.jar)
+target Java: EmailTests (out/target/common/obj/APPS/EmailTests_intermediates/classes)
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+target Java: UnifiedEmailTests (out/target/common/obj/APPS/UnifiedEmailTests_intermediates/classes)
+Install: out/target/product/tiny4412/system/app/Browser/Browser.apk
+Install: out/target/product/tiny4412/system/app/Calendar/Calendar.apk
+Install: out/target/product/tiny4412/system/app/Camera2/Camera2.apk
+mkdir -p out/target/product/tiny4412/system/app/Camera2/lib/arm  ;ln -sf /system/lib/libjni_tinyplanet.so out/target/product/tiny4412/system/app/Camera2/lib/arm/libjni_tinyplanet.so  ;ln -sf /system/lib/libjni_jpegutil.so out/target/product/tiny4412/system/app/Camera2/lib/arm/libjni_jpegutil.so
+Proguard: out/target/common/obj/APPS/Email_intermediates/proguard.classes.jar
+ProGuard, version 4.10
+Reading program jar [/work/android-5.0.2/out/target/common/obj/APPS/Email_intermediates/classes.jar]
+Reading library jar [/work/android-5.0.2/out/target/common/obj/JAVA_LIBRARIES/android_stubs_current_intermediates/classes.jar]
+Preparing output jar [/work/android-5.0.2/out/target/common/obj/APPS/Email_intermediates/proguard.classes.jar]
+  Copying resources from program jar [/work/android-5.0.2/out/target/common/obj/APPS/Email_intermediates/classes.jar]
+target Java: ContactsTests (out/target/common/obj/APPS/ContactsTests_intermediates/classes)
+Note: packages/apps/Contacts/tests/src/com/android/contacts/tests/allintents/AllIntentsActivity.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+target Java: com.android.contacts.common.unittest (out/target/common/obj/APPS/com.android.contacts.common.unittest_intermediates/classes)
+target Java: DialerTests (out/target/common/obj/APPS/DialerTests_intermediates/classes)
+Note: packages/apps/Dialer/tests/src/com/android/dialer/util/FakeAsyncTaskExecutor.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+target Dex: Email
+Copying: out/target/common/obj/APPS/Email_intermediates/classes.dex
+target Package: Email (out/target/product/tiny4412/obj/APPS/Email_intermediates/package.apk)
+nothing matches overlay file ic_launcher_mail.png, for flavor mdpi-v4
+nothing matches overlay file ic_launcher_mail.png, for flavor hdpi-v4
+nothing matches overlay file ic_launcher_mail.png, for flavor xxhdpi-v4
+nothing matches overlay file ic_launcher_mail.png, for flavor xxxhdpi-v4
+packages/apps/Email/../../../prebuilts/sdk/current/support/v7/appcompat/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../../../prebuilts/sdk/current/support/v7/appcompat/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../../../prebuilts/sdk/current/support/v7/appcompat/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/empty_folders.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/empty_inbox.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/empty_search.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/empty_spam.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/empty_trash.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/res/drawable-nodpi/email_widget_preview.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-ldrtl-hdpi/ic_arrow.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-ldrtl-hdpi/ic_arrow_back_wht_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_attach_file_20dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_attach_file_wht_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_compose_56dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_compose_pressed_56dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_drawer_drafts.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_drawer_folder.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_drawer_help.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_drawer_inbox.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_drawer_outbox.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_drawer_sent.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_drawer_settings.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_drawer_starred.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_drawer_trash.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_drawer_unread.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_drop_down_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_drop_up_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_edit_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_ellipsis_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-ldrtl-hdpi/ic_email_caret_double.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-ldrtl-hdpi/ic_email_caret_double_important_unread.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-ldrtl-hdpi/ic_email_caret_none_important_unread.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-ldrtl-hdpi/ic_email_caret_single.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-ldrtl-hdpi/ic_email_caret_single_important_unread.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_expand_more_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_forward_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-ldrtl-hdpi/ic_forward_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_notification_anonymous_avatar_32dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_overflow_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_remove_label_wht_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_reply_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-ldrtl-hdpi/ic_reply_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-ldrtl-hdpi/ic_reply_all_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-ldrtl-hdpi/ic_reply_all_wht_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-ldrtl-hdpi/ic_reply_wht_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-ldrtl-hdpi/ic_send_wht_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_star_20dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_star_outline_20dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_reply_all_24dp.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_warning_gray.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-sw600dp-hdpi/ic_warning_gray.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-hdpi/ic_warning_white.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+packages/apps/Email/../UnifiedEmail/res/drawable-sw600dp-hdpi/ic_warning_white.png: libpng warning: iCCP: Not recognizing known sRGB profile that has been edited
+warning: string 'done_action' has no default translation.
+warning: string 'done_action' is missing 86 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+warning: string 'next_action' has no default translation.
+warning: string 'next_action' is missing 86 required localizations: af_ZA am_ET ar_EG az_AZ bg_BG bn_BD ca_ES cs_CZ da_DK de_AT de_CH de_DE de_LI el_GR en_AU en_CA en_GB en_IN en_NZ en_SG en_US eo_EU es_ES es_US et_EE eu_ES fa_IR fi_FI fr_BE fr_CA fr_CH fr_FR gl_ES hi_IN hr_HR hu_HU hy_AM in_ID is_IS it_CH it_IT iw_IL ja_JP ka_GE kk_KZ km_KH kn_IN ko_KR ky_KG lo_LA lt_LT lv_LV mk_MK ml_IN mn_MN mr_IN ms_MY my_MM nb_NO ne_NP nl_BE nl_NL pl_PL pt_BR pt_PT ro_RO ru_RU si_LK sk_SK sl_SI sr_RS sv_SE sw_TZ ta_IN te_IN th_TH tl_PH tr_TR uk_UA ur_PK uz_UZ vi_VN zh_CN zh_HK zh_TW zu_ZA
+Warning: AndroidManifest.xml already defines versionCode (in http://schemas.android.com/apk/res/android); using existing value in manifest.
+Warning: AndroidManifest.xml already defines minSdkVersion (in http://schemas.android.com/apk/res/android); using existing value in manifest.
+Warning: AndroidManifest.xml already defines targetSdkVersion (in http://schemas.android.com/apk/res/android); using existing value in manifest.
+Install: out/target/product/tiny4412/system/app/Email/Email.apk
+/work/android-5.0.2/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8/bin/../lib/gcc/arm-linux-androideabi/4.8/../../../../arm-linux-androideabi/bin/ld.gold: warning: hidden symbol '__system_property_get' in out/target/product/tiny4412/obj/STATIC_LIBRARIES/base_base_gyp_intermediates/base_base_gyp.a(sys_info_android.o) is referenced by DSO out/target/product/tiny4412/obj/lib/libcutils.so
+/work/android-5.0.2/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8/bin/../lib/gcc/arm-linux-androideabi/4.8/../../../../arm-linux-androideabi/bin/ld.gold: warning: hidden symbol 'SkBitmap::lockPixels() const' in out/target/product/tiny4412/obj/STATIC_LIBRARIES/skia_skia_library_gyp_intermediates/skia_skia_library_gyp.a(SkBitmap.o) is referenced by DSO out/target/product/tiny4412/obj/lib/libjnigraphics.so
+/work/android-5.0.2/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8/bin/../lib/gcc/arm-linux-androideabi/4.8/../../../../arm-linux-androideabi/bin/ld.gold: warning: hidden symbol 'SkBitmap::unlockPixels() const' in out/target/product/tiny4412/obj/STATIC_LIBRARIES/skia_skia_library_gyp_intermediates/skia_skia_library_gyp.a(SkBitmap.o) is referenced by DSO out/target/product/tiny4412/obj/lib/libjnigraphics.so
+/work/android-5.0.2/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8/bin/../lib/gcc/arm-linux-androideabi/4.8/../../../../arm-linux-androideabi/bin/ld.gold: warning: hidden symbol 'SkBitmap::notifyPixelsChanged() const' in out/target/product/tiny4412/obj/STATIC_LIBRARIES/skia_skia_library_gyp_intermediates/skia_skia_library_gyp.a(SkBitmap.o) is referenced by DSO out/target/product/tiny4412/obj/lib/libjnigraphics.so
+target Symbolic: libwebviewchromium (out/target/product/tiny4412/symbols/system/lib/libwebviewchromium.so)
+target Strip: libwebviewchromium (out/target/product/tiny4412/obj/lib/libwebviewchromium.so)
+Install: out/target/product/tiny4412/system/lib/libwebviewchromium.so
+Install: out/target/product/tiny4412/system/app/webview/webview.apk
+mkdir -p out/target/product/tiny4412/system/app/webview/lib/arm  ;ln -sf /system/lib/libwebviewchromium.so out/target/product/tiny4412/system/app/webview/lib/arm/libwebviewchromium.so
+build/tools/generate-notice-files.py  out/target/product/tiny4412/obj/NOTICE.txt  out/target/product/tiny4412/obj/NOTICE.html "Notices for files contained in the filesystem images in this directory:" out/target/product/tiny4412/obj/NOTICE_FILES/src
+Combining NOTICE files into HTML
+Combining NOTICE files into text
+Installed file list: out/target/product/tiny4412/installed-files.txt
+Target system fs image: out/target/product/tiny4412/obj/PACKAGING/systemimage_intermediates/system.img
+Running:  mkuserimg.sh -s out/target/product/tiny4412/system out/target/product/tiny4412/obj/PACKAGING/systemimage_intermediates/system.img ext4 system 629145600 out/target/product/tiny4412/root/file_contexts
+make_ext4fs -s -T -1 -S out/target/product/tiny4412/root/file_contexts -l 629145600 -a system out/target/product/tiny4412/obj/PACKAGING/systemimage_intermediates/system.img out/target/product/tiny4412/system
+Creating filesystem with parameters:
+    Size: 629145600
+    Block size: 4096
+    Blocks per group: 32768
+    Inodes per group: 7680
+    Inode size: 256
+    Journal blocks: 2400
+    Label: 
+    Blocks: 153600
+    Block groups: 5
+    Reserved block group size: 39
+Created filesystem with 1913/38400 inodes and 137205/153600 blocks
+Install system fs image: out/target/product/tiny4412/system.img
+out/target/product/tiny4412/system.img+ maxsize=642318336 blocksize=4224 total=553825732 reserve=6488064
+
+#### make completed successfully (03:44:07 (hh:mm:ss)) ####
+
+
+book@book-virtual-machine:/work/android-5.0.2$ ./gen-img.sh
+Creating filesystem with parameters:
+    Size: 629145600
+    Block size: 4096
+    Blocks per group: 32768
+    Inodes per group: 7680
+    Inode size: 256
+    Journal blocks: 2400
+    Label: 
+    Blocks: 153600
+    Block groups: 5
+    Reserved block group size: 39
+Created filesystem with 1943/38400 inodes and 137316/153600 blocks
+Creating filesystem with parameters:
+    Size: 2149580800
+    Block size: 4096
+    Blocks per group: 32768
+    Inodes per group: 7728
+    Inode size: 256
+    Journal blocks: 8200
+    Label: 
+    Blocks: 524800
+    Block groups: 17
+    Reserved block group size: 135
+Created filesystem with 18/131376 inodes and 17347/524800 blocks
+Creating filesystem with parameters:
+    Size: 4299161600
+    Block size: 4096
+    Blocks per group: 32768
+    Inodes per group: 7952
+    Inode size: 256
+    Journal blocks: 16400
+    Label: 
+    Blocks: 1049600
+    Block groups: 33
+    Reserved block group size: 263
+Created filesystem with 18/262416 inodes and 35067/1049600 blocks
+Creating filesystem with parameters:
+    Size: 10485760000
+    Block size: 4096
+    Blocks per group: 32768
+    Inodes per group: 8112
+    Inode size: 256
+    Journal blocks: 32768
+    Label: 
+    Blocks: 2560000
+    Block groups: 79
+    Reserved block group size: 631
+Created filesystem with 18/640848 inodes and 78756/2560000 blocks
+Image Name:   ramdisk
+Created:      Sun Mar 24 07:34:16 2019
+Image Type:   ARM Linux RAMDisk Image (uncompressed)
+Data Size:    720537 Bytes = 703.65 kB = 0.69 MB
+Load Address: 40800000
+Entry Point:  40800000
+book@book-virtual-machine:/work/android-5.0.2$ 
