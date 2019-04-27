@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">APP_0001_LedDemo</string>
+
+    <string name="LED_ON">ALL ON</string>
+    <string name="LED_OFF">ALL OFF</string>
+    <string name="app_0001_leddemo">app_0001_leddemo</string>
+    <string name="LedDemo_of_www_100ask_com">LedDemo of www.100ask.com</string>
+    <string name="ALL_ON">ALL ON</string>
+    <string name="LED1">LED1</string>
+    <string name="LED2">LED2</string>
+    <string name="LED3">LED3</string>
+    <string name="LED4">LED4</string>
+</resources>

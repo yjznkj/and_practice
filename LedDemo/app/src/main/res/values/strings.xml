@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">APP_0001_LedDemo</string>
+    <string name="app_name">app_0001_leddemo</string>
+    <string name="internet_add">www.yjznkj.com</string>
+    <string name="LED_ON">LED_ON</string>
+    <string name="LED_OFF">LED_OFF</string>
+    <string name="ledNumber1">LED1</string>
+    <string name="ledNumber2">LED2</string>
+    <string name="ledNumber3">LED3</string>
+    <string name="ledNumber4">LED4</string>
 </resources>

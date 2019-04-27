@@ -10,33 +10,36 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="LedDemo of www.100ask.com"
+        android:text="@string/internet_add"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="All ON"
+        android:text="@string/LED_ON"
         />
     <CheckBox
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="led1"/>
+        android:text="@string/ledNumber1"
+        />
     <CheckBox
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="led2"/>
+        android:text="@string/ledNumber2"
+        />
     <CheckBox
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="led3"/>
+        android:text="@string/ledNumber3"
+        />
     <CheckBox
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="led4"/>
+        android:text="@string/ledNumber4"
+        />
 
 
 </LinearLayout>
