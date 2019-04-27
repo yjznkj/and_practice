@@ -16,29 +16,38 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
     <Button
+        android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/LED_ON"
         />
     <CheckBox
+        android:id="@+id/led1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/ledNumber1"
+        android:onClick="onCheckboxClicked"
         />
     <CheckBox
+        android:id="@+id/led2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/ledNumber2"
+        android:onClick="onCheckboxClicked"
         />
     <CheckBox
+        android:id="@+id/led3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/ledNumber3"
+        android:onClick="onCheckboxClicked"
         />
     <CheckBox
+        android:id="@+id/led4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/ledNumber4"
+        android:onClick="onCheckboxClicked"
         />
 
 
